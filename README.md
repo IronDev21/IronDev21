@@ -2,6 +2,7 @@
 
 - 🌱 Estudando ADS - Centro Universitário SENAC
 - 📫 Contate-me: joao.oliver21@outlook.com
+- Linkedin: www.linkedin.com/in/joão-olveira/
 - 😄 Pronouns: ele/dele
 
 <div align="center">
