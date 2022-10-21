@@ -1,4 +1,4 @@
-### Olá! Sou João Oliveira, desenvolvedor de softwares, universitário e entusiasta de técnologia!
+### Olá! Sou João Oliveira, desenvolvedor de softwares, universitário e entusiasta de tecnologia!
 
 - 🌱 Estudando ADS - Centro Universitário SENAC
 - 📫 Contate-me: joao.oliver21@outlook.com
